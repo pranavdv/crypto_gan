@@ -1,0 +1,1 @@
+All notebooks and models explored for public key encryption by changing architecture, batch_size, key and plain text lenghts etc.

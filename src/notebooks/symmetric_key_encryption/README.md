@@ -1,0 +1,1 @@
+All notebooks and models explored for symmetric key encryption by changing architecture, batch_size, key and plain text lenghts etc.
